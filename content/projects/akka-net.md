@@ -6,7 +6,7 @@ longDescription: Son únicamente los primeros pasos en este framework que corres
 cardImage: "https://zaggonaut.dev/Foy.webp"
 tags: ["Akka", "portfolio", "open-source"]
 githubUrl: https://github.com/FoyCR/AkkaNetTest
-timestamp: 20223-02-24T02:39:03+00:00
+timestamp: 2024-03-02T06:39:03+06:00
 featured: true
 ---
 # Foy AkkaNetTest
