@@ -12,37 +12,37 @@ cardImage = "https://FoyCR.github.io/Foy.webp"
 keywords = ["web development", ".Net developer", "technology","Databases"]
 
 [_.blogMeta]
-title = "Zaggonaut Blog"
+title = "Foyland Blog"
 description = "Practical wisdom, unfiltered thoughts, and hot takes."
 longDescription = "Web development, tech trends, and the occasional programming mishap."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://FoyCR.github.io/Foy.webp"
 keywords = ["web development", "design", "technology"]
 
 [_.projectMeta]
-title = "Zaggonaut Projects"
+title = "Foyland Projects"
 description = "A list of my web development projects and developer tools."
 longDescription = "All of my projects, including both frontend and full-stack applications."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://FoyCR.github.io/Foy.webp"
 keywords = ["web development", "design", "technology"]
 
 [_.notFoundMeta]
-title = "Zaggonaut 404"
+title = "Foyland 404"
 description = "The page you are looking for does not exist."
 longDescription = "The page you are looking for does not exist. Maybe it never existed. Spooky."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://FoyCR.github.io/Foy.webp"
 
 [_.hero]
-title = "Zaggonaut"
+title = "Foyland"
 subtitle = "Retro-Inspired Theme &<br />Built for Astro"
-image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+image = "https://FoyCR.github.io/Foy.webp"
 ctaText = "View Projects"
 ctaUrl = "/projects"
 
 [_.personal]
-name = "Zaggonaut"
-githubProfile = "https://github.com/RATIU5/zaggonaut"
+name = "Roy Barrantes (Foy)"
+githubProfile = "https://github.com/FoyCR"
 twitterProfile = "https://twitter.com"
-linkedinProfile = "https://linkedin.com/"
+linkedinProfile = "https://www.linkedin.com/in/barrantesroy/"
 
 [_.texts]
 articlesName = "Articles"
