@@ -15,7 +15,7 @@ I'm following the **Akka.NET Bootcamp - Unit 1: Beginning Akka.NET** from Petabr
 In Unit 1, we will learn the fundamentals of how the actor model and Akka.NET work.
 
 ## Current Flow
-> "*NIX systems have the tail command built-in to monitor changes to a file (such as tailing log files), whereas Windows does not. We will recreate tail for Windows, and use the process to learn the fundamentals."
+> *NIX systems have the tail command built-in to monitor changes to a file (such as tailing log files), whereas Windows does not. We will recreate tail for Windows, and use the process to learn the fundamentals.
 
 The current workflow is as follows:
 - The *consoleReaderActor* actor starts and prints instructions to the console to capture the path to the file to be provided by the user.
