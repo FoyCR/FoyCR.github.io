@@ -13,8 +13,8 @@ keywords = ["web development", ".Net developer", "technology","Databases"]
 
 [_.blogMeta]
 title = "Foyland Blog"
-description = "Practical wisdom, unfiltered thoughts, and hot takes."
-longDescription = "Web development, tech trends, and the occasional programming mishap."
+description = "Blog y articulos personales."
+longDescription = "Blog personal sobre mis andanzas en la programación, base de datos, arquitectura de software, buenas prácticas y alguna otra cosa"
 cardImage = "https://FoyCR.github.io/Foy.webp"
 keywords = ["web development", "design", "technology"]
 
