@@ -6,10 +6,10 @@ baseUrl = "https://FoyCR.github.io"
 
 [_.globalMeta]
 title = "Foyland"
-description = "Retro-Inspired Theme & Built for Astro"
-longDescription = "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-keywords = ["web development", "design", "technology"]
+description = "Blog and Gtihub portfolio by Roy Barrantes (AKA Foy)"
+longDescription = "Desarrallador y líder técnico, con experiencia en tecnologías Microsoft desde los tiempos del VB6 y el asp clásico hasta el .Net Core, pasando por COM+, javascript, angularjs, Ionic, xaml, cordova, MVC, Web Api, Sql Server, Oracle... . Ávido lector, apasionado programador."
+cardImage = "https://FoyCR.github.io/Foy.webp"
+keywords = ["web development", ".Net developer", "technology","Databases"]
 
 [_.blogMeta]
 title = "Zaggonaut Blog"
