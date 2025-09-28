@@ -33,7 +33,7 @@ cardImage = "https://FoyCR.github.io/Foy.webp"
 
 [_.hero]
 title = "Foyland"
-subtitle = "Retro-Inspired Theme &<br />Built for Astro"
+subtitle = "Devenires y vicisitudes en el mundillo de la programación.<br />Y otras foysadas..."
 image = "https://FoyCR.github.io/Foy.webp"
 ctaText = "View Projects"
 ctaUrl = "/projects"
